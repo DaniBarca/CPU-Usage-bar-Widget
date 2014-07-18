@@ -1,0 +1,6 @@
+{
+  "name": "CPU Usage Bar",
+  "description": "Display total CPU usage with a progress bar. Design based on Network Throughput by Adam Courtemanche.",
+  "author": "Daniel Barca",
+  "email": "DaniBarca@outlook.es"
+}
